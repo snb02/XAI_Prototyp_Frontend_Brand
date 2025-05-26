@@ -9,11 +9,17 @@ Voraussetzung: XCode https://developer.apple.com/xcode/ (Version: min. 15.3 )
                Laufendes Server-Backend (siehe Ordner: XAI_Prototyp_Backend_Brand)
 
 Ausführung: 
+
     1. Backend / Server starten
+    
        -  Wenn der Server lokal läuft, sind keine Änderungen nötig.
+       
        -  Wenn der Server über das eigene WLAN getestet wird, muss im Network ViewModel die IP-Adresse durch die eigene ersetzt werden (die passenden Stellen sind markiert).
+       
     2. Projekt / Build starten starten
+    
         - Projekt in Xcode öffnen (MovieRecommendationWithXAI.xcodeproj)
+        
         - im White-Modus
 
 Aufbau: 
